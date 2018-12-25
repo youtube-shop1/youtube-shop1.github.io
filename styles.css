@@ -205,9 +205,15 @@ border-bottom:1px solid silver;
 	 margin-top: 15px;
 	 
  }
- #main_soc_block_ink {
-	 float: center;
-	 padding: 0px 70px;
+#main_soc_block_ink {
+	
+	 float: left;
+	 padding: 8px 50px;
+	 background-color:#e9af32;
+	 border-radius:6 px;
+	 color:ffffff;
+	 margin-left:27%;
+	 margin-top: 15px;
 	
  }
  #about_us{
