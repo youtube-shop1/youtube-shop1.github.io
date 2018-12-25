@@ -216,10 +216,15 @@ border-bottom:1px solid silver;
 	 margin-top: 15px;
 	 
  }
- #main_soc_block_ink {
+#main_soc_block_ink {
 	
-	 padding: 15% 20%;
-	 margin-top:1%;
+	 float: left;
+	 padding: 8px 50px;
+	 background-color:#e9af32;
+	 border-radius:6px;
+	 color:#ffffff;
+	 margin-left:27%;
+	 margin-top: 15px;
 	
  }
  #about_us{
@@ -256,7 +261,7 @@ border-bottom:1px solid silver;
  form label{
 	 float: left;
 	 width:100%;
-	 margin-bottom:10 px;
+	 margin-bottom:10px;
  }
  form textarea{
 	 width:60%;
